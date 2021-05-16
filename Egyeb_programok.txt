@@ -1,0 +1,18 @@
+Excell fügvények:
+
+=MAX(A:A) - maximumot számol a tartományban
+=INDEX(A:B (tömb);12 (sorszám); 1 (oszlopszám - tömbb ennyiedik oszlopából másol) - másolás
+=DARABTELI( (Tartomány); ">="&B1 (kritérium))) - megszámolja hányszor teljesül a kritérium
+=DARABTELI( (Tartomány); "x" (kritérium))) - megszámolja hányszor teljesül a kritérium
+=HOL.VAN(8 (keresési érték); A:A (tábla; 0 (egyezés tipusa)) - keresés
+=DARAB2(A:A) - megszámolja az összes elemet
+=RANG.EGY(Tartomány) - rangsorol
+
+
+Excell feltételes formázás:
+- Kijelöl tartomány.
+- !Képletet úgy fogalmazzuk, meg mintha az elsõ cellára vonatkozna!
+
+= B2 > x
+= $A2 = 1 
+
