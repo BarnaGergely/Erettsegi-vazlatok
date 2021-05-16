@@ -1,2 +1,2 @@
 # Erettsegi-vazlatok
-C# vázlataim emelt informatika érettségihez
+Program-cs - C# vázlataim emelt informatika érettségihez
